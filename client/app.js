@@ -1,4 +1,4 @@
-const form = document.getElementById("messagesForm")
+const form = document.getElementById("messageForm")
 
 form.addEventListener("submit", function (event) {
     event.preventDefault()
